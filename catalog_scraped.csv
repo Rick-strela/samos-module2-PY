@@ -1,0 +1,5 @@
+product_id,title,author,price_uah,stock_status,relative_url
+BOOK-101,Python для аналізу даних,Уес Маккінні,850.0,В наявності,/books/python-data-analysis
+BOOK-102,Прикладне машинне навчання з Scikit-Learn,Орельєн Жерон,1200.0,В наявності,/books/hands-on-ml
+BOOK-103,Глибоке навчання без математики,Франсуа Шолле,950.5,Очікується,/books/deep-learning-python
+BOOK-104,Чистий код у Python,Маріано Анайя,720.0,В наявності,/books/clean-code-python
